@@ -44745,4 +44745,3 @@ DOMAIN-SUFFIX,zzwpsm.cn,REJECT
 DOMAIN-SUFFIX,zzxhx.com,REJECT
 DOMAIN-SUFFIX,zzyanhushi.com,REJECT
 DOMAIN-SUFFIX,zzyonghao.com,REJECT
-{"mode":"full","isActive":false},REJECT
