@@ -1,7 +1,0 @@
-DOMAIN-SUFFIX,netflix.com,Video streaming
-DOMAIN-SUFFIX,netflix.net,Video streaming
-DOMAIN-SUFFIX,nflximg.net,Video streaming
-DOMAIN-SUFFIX,nflximg.com,Video streaming
-DOMAIN-SUFFIX,nflxvideo.net,Video streaming
-DOMAIN-SUFFIX,nflxso.net,Video streaming
-DOMAIN-SUFFIX,nflxext.com,Video streaming
