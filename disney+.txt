@@ -1,0 +1,17 @@
+HOST-SUFFIX,disney.com,DISNEY+
+HOST-SUFFIX,disneyplus.com,DISNEY+
+HOST-SUFFIX,disney-plus.net,DISNEY+
+HOST-SUFFIX,go-mpulse.net,DISNEY+
+HOST-SUFFIX,disneynow.com,DISNEY+
+HOST-SUFFIX,disneyjunior.com,DISNEY+
+HOST-SUFFIX,search-api-disney.bamgrid.com,DISNEY+
+HOST-SUFFIX,cdn.registerdisney.go.com,DISNEY+
+HOST-SUFFIX,cws.conviva.com,DISNEY+
+HOST-SUFFIX,d9.flashtalking.com,DISNEY+
+HOST-SUFFIX,disney-portal.my.onetrust.com,DISNEY+
+HOST-SUFFIX,disneyplus.bn5x.net,DISNEY+
+HOST-SUFFIX,dssott.com,DISNEY+
+HOST-SUFFIX,adobedtm.com,DISNEY+
+HOST-SUFFIX,bamgrid.com,DISNEY+
+HOST-SUFFIX,optimizely.com,DISNEY+
+HOST-SUFFIX,dssott.com.akamaized.net,DISNEY+
