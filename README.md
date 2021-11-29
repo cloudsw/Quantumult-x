@@ -1,6 +1,2 @@
 # Quantumult-x
-quantumult x的anti-AD规则
-(不定期更新)
-
-
-致谢: https://github.com/privacy-protection-tools/anti-AD
+quantumult x的filter, rewrite, Anti-Ads规则(自用)
