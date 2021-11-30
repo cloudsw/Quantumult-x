@@ -15,3 +15,4 @@ HOST-SUFFIX,adobedtm.com,DISNEY-PLUS
 HOST-SUFFIX,bamgrid.com,DISNEY-PLUS
 HOST-SUFFIX,optimizely.com,DISNEY-PLUS
 HOST-SUFFIX,dssott.com.akamaized.net,DISNEY-PLUS
+USER-AGENT,Disney+*,DISNEY-PLUS
