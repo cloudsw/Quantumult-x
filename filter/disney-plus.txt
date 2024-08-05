@@ -115,7 +115,7 @@ HOST-SUFFIX,disneysrivieraresort.com,DISNEY-PLUS
 HOST-SUFFIX,disneystore.com,DISNEY-PLUS
 HOST-SUFFIX,disneystreaming.com,DISNEY-PLUS
 HOST-SUFFIX,disneysubscription.com,DISNEY-PLUS
-HOST-SUFFIX,disneytermsofuse.com,DISNEY-PLUS-PLUS
+HOST-SUFFIX,disneytermsofuse.com,DISNEY-PLUS
 HOST-SUFFIX,disneytickets.co.uk,DISNEY-PLUS
 HOST-SUFFIX,disneyturkiye.com.tr,DISNEY-PLUS
 HOST-SUFFIX,disneytvajobs.com,DISNEY-PLUS
